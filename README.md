@@ -58,7 +58,7 @@ If my code has helped you, please consider sponsoring me.<br>
 I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
 
 ## 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush9952&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush9952's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush9952&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhanushKrishnan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="DhanushKrishnan's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush9952&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 Follow me on social media, :rainbow_flag:
@@ -86,5 +86,5 @@ Follow me on social media, :rainbow_flag:
  ## Contribution Graph 📊
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=Dhanush9952&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=DhanushKrishnan&theme=chartreuse-dark"
      />
