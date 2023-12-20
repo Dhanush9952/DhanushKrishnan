@@ -33,7 +33,7 @@ If my code has helped you, Reply Thankyou!<br>
 <tr>
     <td align='center'>
     <a href="https://github.com/">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg">
+    <img src="https://github.com/DhanushKrishnan/DhanushKrishnan/assets/29054766/9ae253b7-7a02-4269-bcf2-27ef2e96fdd6">
     </a>
     </td>
     <td align='center'>
