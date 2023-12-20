@@ -32,8 +32,8 @@ If my code has helped you, Reply Thankyou!<br>
 </tr>
 <tr>
     <td align='center'>
-    <a href="https://github.com/">
-    <img src="https://github.com/DhanushKrishnan/DhanushKrishnan/assets/29054766/9ae253b7-7a02-4269-bcf2-27ef2e96fdd6">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png">
     </a>
     </td>
     <td align='center'>
