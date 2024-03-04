@@ -53,9 +53,9 @@ If my code has helped you, Reply Thankyou!<br>
 </tr>
  </table>
 <b>Skills :</b>
-<i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
+<i>Java, DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, ...</i>
 
-I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
+I'm good at programming, problem solving, and thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
 
 ## 📊 GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhanushKrishnan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="DhanushKrishnan's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushKrishnan&layout=compact&theme=buefy&hide_border=true" /> |
