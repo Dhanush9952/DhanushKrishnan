@@ -46,8 +46,8 @@ If my code has helped you, Reply Thankyou!<br>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
-    <a href="https://dev.to/">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg">
+    <a href="https://www.java.com/en/">
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">
     </a>
     </td>
 </tr>
